@@ -1,0 +1,6 @@
+.elementary-wrapper:after,
+.elementary-wrapper:before {
+    content: "";
+    clear: both;
+    display: table;
+}

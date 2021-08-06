@@ -1,0 +1,11 @@
+input.elementary-shortcode {
+	background: inherit;
+	font-size: 12px;
+	width: 200px;
+	border: none;
+	box-shadow: none;
+}
+input.elementary-shortcode:focus {
+	border: none;
+	box-shadow: none;
+}
